@@ -6,5 +6,5 @@ Siendo ejecutada atravez del asinconismo en java con metodos Aync/Await
 
 
 #Realizado en el ITGAM para la materia Desarrollo Web en Pila Completa 1, por los integrantes:
-Espinoza Montoya Aylen Azucena 
+Espinoza Montoya Aylen Azucena y
 Reyes Rodríguez Emmanuel
