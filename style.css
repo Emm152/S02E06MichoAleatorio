@@ -33,12 +33,12 @@ body {
   button {
     display: block;
     margin: 0 auto;
-    padding: 10px;
+    padding: 20px;
     border: none;
-    border-radius: 5px;
-    background-color: #1B3F8B;
-    color: #FFFFFF;
-    font-size: 18px;
+    border-radius: 15px;
+    background-color: #a173a7;
+    color: #281d2e;
+    font-size: 30px;
     cursor: pointer;
   }
   
